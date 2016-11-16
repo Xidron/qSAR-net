@@ -20,4 +20,4 @@
 **for GPU-enabled version of TensorFlow:**
 * cudatoolkit 7.5
 * cudnn 5.1
-* tensorflow 0.11.0 (from mwojcikowski channel)
+* tensorflow 0.11.0 (from [mwojcikowski](https://anaconda.org/mwojcikowski/tensorflow) channel)
