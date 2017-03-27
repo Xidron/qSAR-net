@@ -1,4 +1,4 @@
-# Repo1
+# qSAR-net
 
 ---
 
