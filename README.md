@@ -20,3 +20,6 @@
 * cudatoolkit 7.5
 * cudnn 5.1
 * tensorflow 0.11.0 (from [mwojcikowski](https://anaconda.org/mwojcikowski/tensorflow) channel)
+
+# Files:
+* saved_sets/history.txt - contains confusion matrices and max validation rates from ten runs of the best network on the training set; 'cm':confusion_matrices, 'vr':max_validation_rates; it is used to find classes with very high and very low mean True Negative Rates
